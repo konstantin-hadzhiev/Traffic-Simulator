@@ -1,0 +1,24 @@
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\bin\Debug\TrafficSimulation.exe.config
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.csprojResolveAssemblyReference.cache
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.csproj.GenerateResource.Cache
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\bin\Debug\TrafficSimulation.exe
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\bin\Debug\TrafficSimulation.pdb
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.Properties.Resources.resources
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.exe
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.pdb
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\bin\Debug\Resources\crossingSideWalk21.png
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.CrossingOptionsForm.resources
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.TrafficSimulator.resources
+D:\Traffic Lights Simulator\TrafficLight\TrafficSimulation\obj\Debug\TrafficSimulation.Statistics_Form.resources
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\bin\Debug\TrafficSimulation.exe.config
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.exe
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.pdb
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\bin\Debug\Resources\crossingSideWalk21.png
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\bin\Debug\TrafficSimulation.exe
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\bin\Debug\TrafficSimulation.pdb
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.csprojResolveAssemblyReference.cache
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.CrossingOptionsForm.resources
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.Statistics_Form.resources
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.TrafficSimulator.resources
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.Properties.Resources.resources
+G:\Laptop Backup\Fontys\Year 2\Projects\Traffic Lights Simulator\TrafficLight1\TrafficSimulation\obj\Debug\TrafficSimulation.csproj.GenerateResource.Cache
